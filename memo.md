@@ -1,12 +1,12 @@
-    #Sendo Markdown 🤯
+    # Sendo Markdown 🤯
 
-    ##Hecho por Ortiz
+    ## Hecho por Ortiz
     Soy Jeronimo y este es mi primer markdown
 
-    ###Objetivos
+    ### Objetivos
     Aprende a escribir documentos usando `.md`
 
-    ## *Cosas Esenciales🛫*
+    *Cosas Esenciales🛫*
     - Lista
     - Sencilla
     - Con Viñetas
@@ -21,9 +21,9 @@
     [] Quieras
     [] Paso a Paso
 
-    ## Links de Apoyo –📎
+    Links de Apoyo –📎
     - [El Teams] (<<https://teams.microsoft.com/v2/>>)
     - [Musiquita motivacional] (<<https://www.youtube.com/watch?v=FU-7mHUTJKk&list=RDFU-7mHUTJKk&start_radio=1&pp=ygUOZGlvbWVkZXMgZMOtYXqgBwHSBwkJmQsBhyohjO8%3D>>)
-    ! [Ejemplo de Imagen] (<<https://preview.redd.it/dqmb2cxza5031.jpg?auto=webp&s=bfa2e125eb50c01a50ab2eae7382e1601f1fcc82.png>>)
+    ! [Ejemplo de Imagen] (<<https://preview.redd.it/dqmb2cxza5031.jpg?auto=webp&s=bfa2e125eb50c01a50ab2eae7382e1601f1fcc82.pn  g>>)
 
 
